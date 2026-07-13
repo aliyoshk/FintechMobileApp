@@ -1,0 +1,20 @@
+{
+  "accountHolderName": "Tayyab Sohail",
+  "designation": "Software Engineer",
+  "email": "tayyab.sohail@example.com",
+  "availableBalance": 1200.00,
+  "currency": "USD",
+  "quickActions": [
+    { "id": "billpay", "label": "Bill Pay", "icon": "bill_pay" },
+    { "id": "donations", "label": "Donations", "icon": "donations" },
+    { "id": "deposit", "label": "Deposit", "icon": "deposit" },
+    { "id": "more", "label": "More", "icon": "more" }
+  ],
+  "transactions": [
+    { "id": "t1", "title": "E wallet", "category": "wallet", "amount": 100.00, "timestamp": "2024-12-12T12:10:00Z" },
+    { "id": "t2", "title": "Online Shopping", "category": "shopping", "amount": -100.00, "timestamp": "2024-12-12T12:10:00Z" },
+    { "id": "t3", "title": "E wallet", "category": "wallet", "amount": 100.00, "timestamp": "2024-12-12T12:10:00Z" },
+    { "id": "t4", "title": "Banking Fee", "category": "bank", "amount": 100.00, "timestamp": "2024-12-12T12:10:00Z" },
+    { "id": "t5", "title": "Saving", "category": "saving", "amount": -300.00, "timestamp": "2024-12-12T12:10:00Z" }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "cards": [
+    {
+      "id": "c1",
+      "cardHolderName": "Tayyab Sohail",
+      "cardNumber": "5399830912343466",
+      "validDate": "12 / 02 / 2024",
+      "cvv": "663",
+      "cardType": "mastercard",
+      "isVirtual": false,
+      "isFrozen": false
+    },
+    {
+      "id": "c2",
+      "cardHolderName": "Tayyab Sohail",
+      "cardNumber": "5399830987654321",
+      "validDate": "06 / 05 / 2025",
+      "cvv": "217",
+      "cardType": "mastercard",
+      "isVirtual": false,
+      "isFrozen": false
+    },
+    {
+      "id": "c3",
+      "cardHolderName": "Tayyab Sohail",
+      "cardNumber": "5399831122334455",
+      "validDate": "03 / 09 / 2026",
+      "cvv": "489",
+      "cardType": "mastercard",
+      "isVirtual": false,
+      "isFrozen": false
+    }
+  ]
+}
